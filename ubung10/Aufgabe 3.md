@@ -12,5 +12,6 @@ i i
 
 Ihr Programm soll dem Benutzer oder der Benutzerin danach eine Abfrage nach folgendem
 Muster ermöglichen:
+
 1 Ganze Zahl eingeben: 4563
 2 Kubikzahl Ihrer Eingabe: 95006081547
