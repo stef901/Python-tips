@@ -22,7 +22,7 @@ Compiti in aula
 Riceverai un invito per ogni incarico via e-mail. Accetta il compito e scegli tra i gruppi esistenti, se desideri unirti a uno dei gruppi esistenti, oppure creane uno nuovo. Dopo l'accettazione, troverai un nuovo repository nel tuo account GitHub personale. Vedi sotto se non hai ancora un account GitHub.
 
 Compiti in aula in vscode
-Avvia vscode. Per gestire i compiti in classe, fai clic sul simbolo github nella barra delle applicazioni di sinistra, accedi a github. Per confermare le modifiche, fai clic sull'icona del controllo del codice sorgente (Crtl-Merda-G). Lascia sempre un messaggio per i tuoi impegni.
+Avvia vscode. Per gestire i compiti in classe, fai clic sul simbolo github nella barra delle applicazioni di sinistra, accedi a github. Per confermare le modifiche, fai clic sull'icona del controllo del codice sorgente (Crtl-G). Lascia sempre un messaggio per i tuoi impegni.
 
 Compiti in aula su GitHub
 Una volta accettato un compito, troverai un nuovo repository nel tuo GitHub personale. Non è necessario utilizzare vscode per modificare i codici, puoi anche modificarli direttamente su GitHub o clonare la directory in una directory locale e modificare da lì utilizzando un altro software. Assicurati di confermare le modifiche.
