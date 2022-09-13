@@ -1,7 +1,13 @@
 # Python 
 
 Python
-
+websites:
+https://www.markdownguide.org/basic-syntax/
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html
+https://www.coursera.org/learn/python-programming-introduction/supplement/7ftIJ/setting-up-spyder
+Monte Carlo Simulation with Python(https://pbpython.com/monte-carlo.html)
+[NumPy quickstart](https://numpy.org/devdocs/user/quickstart.html)
+[Treasury Yield Curve Bootstrapping](https://www.quantandfinancial.com/2012/08/yield-curve-bootstrapping.html)
 
 Quindi oggi parleremo del laboratorio di pensiero computazionale eth
 così abbiamo
