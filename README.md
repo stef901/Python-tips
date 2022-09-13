@@ -2,7 +2,8 @@
 
 Python
 
-
+matplotlib.pyplot.axhline
+(https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.axhline.html)
 Quindi oggi parleremo del laboratorio di pensiero computazionale eth
 così abbiamo
 ETH Computational Thinking Labs: istruzioni generali
